@@ -18,16 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-Swapping of two values
-Developed by:Janarthanan B
-Register number:212223100014
+       Swapping of two values
+       
+       Developed by:Janarthanan B
+       
+       Register number:212223100014
 
-surya=int (input())
-vijay=int (input())
-temp=surya
-surya=vijay
-vijay=temp
-print("Swapped values are:",surya,vijay)
+       surya=int (input())
+       vijay=int (input())
+       temp=surya
+       surya=vijay
+       vijay=temp
+       print("Swapped values are:",surya,vijay)
 
 
 
