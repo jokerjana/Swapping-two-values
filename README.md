@@ -1,4 +1,4 @@
-# Swapping-two-values
+![image](https://github.com/jokerjana/Swapping-two-values/assets/147173630/854ed346-6be6-48de-8e55-a1887e10e706)# Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -18,8 +18,22 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+Swapping of two values
+Developed by:Janarthanan B
+Register number:212223100014
+
+surya=int (input())
+vijay=int (input())
+temp=surya
+surya=vijay
+vijay=temp
+print("Swapped values are:",surya,vijay)
 
 
+
+
+## OUTPUT:
+![image](https://github.com/jokerjana/Swapping-two-values/assets/147173630/594eeacd-f70a-4f4b-82d2-e010fe05bee8)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
