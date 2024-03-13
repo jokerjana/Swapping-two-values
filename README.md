@@ -1,4 +1,4 @@
-![image](https://github.com/jokerjana/Swapping-two-values/assets/147173630/854ed346-6be6-48de-8e55-a1887e10e706)# Swapping-two-values
+ Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
